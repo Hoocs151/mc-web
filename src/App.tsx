@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { ThemeProvider as EmotionThemeProvider } from '@emotion/react';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { QueryClient, QueryClientProvider } from 'react-query';
 import { HelmetProvider } from 'react-helmet-async';
 import { ToastProvider, ThemeProvider, useTheme } from './contexts';
 import {
