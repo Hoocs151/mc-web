@@ -22,42 +22,42 @@ interface GalleryProps {
 const defaultImages: GalleryItem[] = [
   {
     id: 1,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'Server Spawn Area',
     title: 'Spawn Area',
     description: 'Beautiful spawn area with custom builds'
   },
   {
     id: 2,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'Medieval Castle',
     title: 'Medieval Castle',
     description: 'Player-built medieval castle'
   },
   {
     id: 3,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'Modern City',
     title: 'Modern City',
     description: 'Thriving city built by our community'
   },
   {
     id: 4,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'Beautiful Landscape',
     title: 'Natural Landscape',
     description: 'Stunning natural terrain generation'
   },
   {
     id: 5,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'Trading Market',
     title: 'Trading Market',
     description: 'Bustling marketplace for player trading'
   },
   {
     id: 6,
-    src: 'src/assets/images/bg.jpg',
+    src: '/images/logo.png',
     alt: 'PvP Arena',
     title: 'PvP Arena',
     description: 'Epic battles in our custom arena'
